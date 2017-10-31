@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h6>Heading 6</h6>
+
+<h1 style="font-size:60px;">Heading 1</h1>
+
+<p>You can change the size of a heading with the style attribute.</p>
+
+<h1>This is heading 1</h1>
+<p>This is some text.</p>
+<hr>
+
+<title>My First HTML</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+
+<p>The HTML head element contains meta data.</p>
+<p>Meta data is data about the HTML document.</p>
+
+<h1>Squash</h1>
+<hr>
+<p>Squash is a mix of cucumbers, melons, Pumpkins, gourds</p>
+
+
+<h1>Hello</h1>
+
+<h1>Squash represents</h1>
+
+<h2>SQUASH</h2>
+
+<h3>sqaush facts</h3>
+
+<p>A new person has been named, he is a legend,he is uknown, his name is SQUASH!!</p>
+
+
+
+
+</body>
+</html>
